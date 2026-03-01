@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Data (Don't upload the dataset, it's big and auto-downloads anyway)
+data/
+raw/
+processed/
+
+# Environment/Build
+.venv/
+env/
+.ipynb_checkpoints/
+
+# Results/Plots
+results/*.png
+training_curves.png
