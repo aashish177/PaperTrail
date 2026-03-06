@@ -1,0 +1,23 @@
+{
+    "GCN": {
+        "test_accuracy": 0.805,
+        "val_accuracy": 0.772,
+        "train_accuracy": 1.0,
+        "training_time": 1.0379807949066162,
+        "num_parameters": 23063
+    },
+    "GAT": {
+        "test_accuracy": 0.788,
+        "val_accuracy": 0.756,
+        "train_accuracy": 1.0,
+        "training_time": 4.840611696243286,
+        "num_parameters": 92373
+    },
+    "GraphSAGE": {
+        "test_accuracy": 0.804,
+        "val_accuracy": 0.778,
+        "train_accuracy": 1.0,
+        "training_time": 5.119696855545044,
+        "num_parameters": 46103
+    }
+}
